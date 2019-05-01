@@ -1,0 +1,26 @@
+{
+  "name": "chemistry-final-project",
+  "version": "1.0.0",
+  "description": "Website for Chemistry",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^9.5.1",
+    "eslint": "^5.16.0",
+    "postcss-cli": "^6.1.2",
+    "sass": "^1.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkrawciw/Chemistry-Final-Project.git"
+  },
+  "author": "Alex G, Daniel K, Mikey G, Zach C",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dkrawciw/Chemistry-Final-Project/issues"
+  },
+  "homepage": "https://github.com/dkrawciw/Chemistry-Final-Project#readme"
+}
